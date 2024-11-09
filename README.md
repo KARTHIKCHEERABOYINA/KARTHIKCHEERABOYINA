@@ -27,7 +27,7 @@
 
 - 💬 Ask me about *Java, Python, Django, JavaScript, and Web Development*
 
-- 📫 How to reach me *devarapallisrinath8@gmail.com*
+- 📫 How to reach me *karthikcheeraboyina@gmail.com*
 
 - ⚡ *I love problem-solving and upskilling!*
   
