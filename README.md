@@ -89,7 +89,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-|![Karthik Cheeraboyina's GitHub stats](https://github-readme-stats.vercel.app/api?username=srinath41\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)|[![GitHub Streak](https://streak-stats.demolab.com/?user=KARTHIKCHEERABOYINA&theme=midnight-purple)](https://git.io/streak-stats)|
+|![Karthik Cheeraboyina's GitHub stats](https://github-readme-stats.vercel.app/api?username=KARTHIKCHEERABOYINA\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)|[![GitHub Streak](https://streak-stats.demolab.com/?user=KARTHIKCHEERABOYINA&theme=midnight-purple)](https://git.io/streak-stats)|
 |--|--|
 
 </div>
